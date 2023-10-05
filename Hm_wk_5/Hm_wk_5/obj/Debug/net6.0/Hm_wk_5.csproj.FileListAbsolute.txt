@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\bin\Debug\net6.0\Hm_wk_5.exe
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\bin\Debug\net6.0\Hm_wk_5.deps.json
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\bin\Debug\net6.0\Hm_wk_5.runtimeconfig.json
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\bin\Debug\net6.0\Hm_wk_5.dll
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\bin\Debug\net6.0\Hm_wk_5.pdb
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.AssemblyInfo.cs
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.dll
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\refint\Hm_wk_5.dll
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.pdb
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\Hm_wk_5.genruntimeconfig.cache
+C:\Users\au10155\Desktop\Hm_wk_les5\Hm_wk_5\Hm_wk_5\obj\Debug\net6.0\ref\Hm_wk_5.dll
